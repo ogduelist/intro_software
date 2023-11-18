@@ -1,1 +1,1 @@
-# intro_software
+# Our Hello World project
